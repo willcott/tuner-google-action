@@ -1,0 +1,24 @@
+[
+  {
+    "value": "next",
+    "synonyms": [
+      "next",
+      "higher"
+    ]
+  },
+  {
+    "value": "previous",
+    "synonyms": [
+      "previous",
+      "back",
+      "lower"
+    ]
+  },
+  {
+    "value": "repeat",
+    "synonyms": [
+      "repeat",
+      "again"
+    ]
+  }
+]

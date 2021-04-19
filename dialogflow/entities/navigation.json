@@ -1,0 +1,9 @@
+{
+  "id": "2cb9b201-f435-4436-8ff3-ec53f8e9885c",
+  "name": "navigation",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

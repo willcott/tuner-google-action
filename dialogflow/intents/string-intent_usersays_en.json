@@ -1,0 +1,127 @@
+[
+  {
+    "id": "052f228d-ddb8-4d23-b566-49fb2bfdb196",
+    "data": [
+      {
+        "text": "play ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f97dd038-9c6d-46c4-ae68-728f38e0af4d",
+    "data": [
+      {
+        "text": "High E",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0382853-1b1e-4a00-814d-392027f6101a",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "B",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecc33cdc-2323-44db-aaf5-391c67fa6b9b",
+    "data": [
+      {
+        "text": "D",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96dd3747-1fe9-44af-b3c4-4e7b0778ef70",
+    "data": [
+      {
+        "text": "Low E",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f869913-1d23-4e15-9e8f-553be22c5396",
+    "data": [
+      {
+        "text": "A",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "685175f1-74ff-4d7d-87eb-6088fc96d33c",
+    "data": [
+      {
+        "text": "the ",
+        "userDefined": false
+      },
+      {
+        "text": "G",
+        "meta": "@guitar-string",
+        "alias": "guitarString",
+        "userDefined": true
+      },
+      {
+        "text": " string",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

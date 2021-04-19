@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Low E",
+    "synonyms": [
+      "Low E",
+      "E"
+    ]
+  },
+  {
+    "value": "A",
+    "synonyms": [
+      "A"
+    ]
+  },
+  {
+    "value": "G",
+    "synonyms": [
+      "G"
+    ]
+  },
+  {
+    "value": "B",
+    "synonyms": [
+      "B"
+    ]
+  },
+  {
+    "value": "D",
+    "synonyms": [
+      "D"
+    ]
+  },
+  {
+    "value": "High E",
+    "synonyms": [
+      "High E"
+    ]
+  }
+]

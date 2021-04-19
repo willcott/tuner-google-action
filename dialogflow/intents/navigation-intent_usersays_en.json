@@ -1,0 +1,74 @@
+[
+  {
+    "data": [
+      {
+        "text": "go ",
+        "userDefined": false
+      },
+      {
+        "text": "back",
+        "meta": "@navigation",
+        "alias": "navigation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "play the ",
+        "userDefined": false
+      },
+      {
+        "text": "next",
+        "meta": "@navigation",
+        "alias": "navigation",
+        "userDefined": false
+      },
+      {
+        "text": " string",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "play ",
+        "userDefined": false
+      },
+      {
+        "text": "again",
+        "meta": "@navigation",
+        "alias": "navigation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "next",
+        "meta": "@navigation",
+        "alias": "navigation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

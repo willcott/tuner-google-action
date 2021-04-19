@@ -1,0 +1,9 @@
+{
+  "id": "26116a02-5d21-4478-a64d-5c7bab1855c0",
+  "name": "guitar-string",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

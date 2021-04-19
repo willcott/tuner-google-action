@@ -1,0 +1,28 @@
+[
+  {
+    "id": "aeed5e53-e9e0-4660-b2af-fa8ef9106d69",
+    "data": [
+      {
+        "text": "today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fef95a14-b7ae-4297-8fd0-81eee43c8497",
+    "data": [
+      {
+        "text": "eggs and bacon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
