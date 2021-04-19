@@ -10,13 +10,15 @@
   },
   "scripts": {
     "start": "firebase serve --only functions:dialogflowFirebaseFulfillment",
-    "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment"
+    "deploy": "firebase deploy --only functions:dialogflowFirebaseFulfillment",
+    "test": "jest"
   },
   "dependencies": {
-    "actions-on-google": "^2.2.0",
+    "actions-on-google": "^2.13.0",
+    "dialogflow": "^0.6.0",
+    "dialogflow-fulfillment": "^0.5.0",
     "firebase-admin": "^5.13.1",
     "firebase-functions": "^2.0.2",
-    "dialogflow": "^0.6.0",
-    "dialogflow-fulfillment": "^0.5.0"
+    "jest": "^26.6.3"
   }
 }
